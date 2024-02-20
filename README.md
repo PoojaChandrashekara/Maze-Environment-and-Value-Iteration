@@ -21,7 +21,7 @@ This repository contains code for a simple maze environment and a Python impleme
 
 1. Run the value iteration algorithm:
    ```bash
-   python value_iteration.py
+   python value_iteration.ipynb
    
 3. View the optimal policy and value function plots.
 
@@ -29,7 +29,7 @@ This repository contains code for a simple maze environment and a Python impleme
 
 - Modify the maze structure.
 - Adjust the reward function and transition probabilities.
-- Explore different reinforcement learning algorithms in value_iteration.py.
+- Explore different reinforcement learning algorithms in value_iteration.ipynb
 
 ## Additional Information
 
