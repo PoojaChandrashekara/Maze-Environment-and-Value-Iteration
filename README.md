@@ -29,14 +29,14 @@ This repository contains code for a simple maze environment and a Python impleme
 
 - Modify the maze structure.
 - Adjust the reward function and transition probabilities.
--Explore different reinforcement learning algorithms in value_iteration.py.
+- Explore different reinforcement learning algorithms in value_iteration.py.
 
 ## Additional Information
 
-Algorithm: Value iteration
-Environment: Maze environment
-Dependencies: numpy, matplotlib
-Author: Pooja Chandrashekara
-License: MIT License
+- Algorithm: Value iteration
+- Environment: Maze environment
+- Dependencies: numpy, matplotlib
+- Author: Pooja Chandrashekara
+- License: MIT License
 
 
