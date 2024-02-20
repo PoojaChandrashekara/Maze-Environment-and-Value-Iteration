@@ -6,6 +6,35 @@ This repository contains code for a simple maze environment and a Python impleme
 
 ## Files
 
-value_iteration.py: This file implements the value iteration algorithm to solve the maze problem.
-requirements.txt: This file lists the required Python libraries.
-README.md: This file (you're reading it now!).
+- value_iteration.py: This file implements the value iteration algorithm to solve the maze problem.
+- requirements.txt: This file lists the required Python libraries.
+- README.md: This file (you're reading it now!).
+
+## Installation
+
+1. Clone the repository
+2. Install the required libraries:
+   pip install -r requirements.txt
+
+## Usage
+
+1. Run the value iteration algorithm:
+   python value_iteration.py
+   
+2. View the optimal policy and value function plots.
+
+## Customization
+
+-Modify the maze structure.
+-Adjust the reward function and transition probabilities.
+-Explore different reinforcement learning algorithms in value_iteration.py.
+
+## Additional Information
+
+Algorithm: Value iteration
+Environment: Maze environment
+Dependencies: numpy, matplotlib
+Author: Pooja Chandrashekara
+License: MIT License
+
+
